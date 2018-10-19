@@ -1,1 +1,0 @@
-Kindly save the two CSV files in the same location as the JAR or src folder.
